@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="WindowIcon">
+    <file>icons/Icon.6_06.png</file>
+  </qresource>
+  <qresource prefix="Butontuslari">
+    <file>icons/dogruTusu.png</file>
+    <file>icons/yanlısTusu.png</file>
+  </qresource>
+</RCC>
